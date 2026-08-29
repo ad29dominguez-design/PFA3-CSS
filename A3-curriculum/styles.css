@@ -1,0 +1,15 @@
+/* Encabezado principal centrado y en mayúsculas */
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Encabezados de nivel 2 en mayúsculas */
+h2 {
+    text-transform: uppercase;
+}
+
+/* Contenido de las etiquetas strong subrayado */
+strong {
+    text-decoration: underline;
+}

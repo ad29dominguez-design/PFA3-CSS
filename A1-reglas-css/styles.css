@@ -1,0 +1,23 @@
+/* Propuesta A: diferentes medidas para cada borde */
+.caja {
+    border-top: 10px solid black;
+    border-bottom: 20px solid black;
+    border-right: 40px solid black;
+    border-left: 30px solid black;
+    padding: 20px;
+    width: 300px;
+}
+
+/* Propuesta B: estados del enlace */
+a:hover {
+    color: red;
+}
+
+a:focus {
+    color: green;
+}
+
+/* Propuesta C: párrafos en cursiva */
+p {
+    font-style: italic;
+}
